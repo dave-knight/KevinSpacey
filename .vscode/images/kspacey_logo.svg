@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="400" fill="#E8F5FD"/>
+
+  <!-- Head -->
+  <circle cx="400" cy="150" r="50" fill="#FDDBB0"/>
+
+  <!-- Eyes -->
+  <circle cx="385" cy="140" r="5" fill="black"/>
+  <circle cx="415" cy="140" r="5" fill="black"/>
+
+  <!-- Smile -->
+  <path d="M385 160 Q400 180 415 160" stroke="black" fill="transparent"/>
+
+  <!-- Suit Jacket -->
+  <path d="M350 200 L450 200 L480 350 L320 350 Z" fill="#000080"/>
+
+  <!-- Shirt -->
+  <rect x="385" y="200" width="30" height="80" fill="white"/>
+
+  <!-- Tie -->
+  <path d="M395 200 L405 200 L400 250 Z" fill="#800000"/>
+
+  <!-- Bigger 𝕏 Logo Pin on Jacket -->
+  <circle cx="425" cy="220" r="18" fill="black" stroke="black" stroke-width="3"/>
+  <text x="416" y="229" font-family="Arial" font-size="27" fill="white">𝕏</text>
+
+  <!-- Text Moved Up, Yellow Color -->
+  <text x="400" y="302" text-anchor="middle" font-family="Arial" font-size="34" fill="yellow">Kevin</text>
+  <text x="400" y="337" text-anchor="middle" font-family="Arial" font-size="34" fill="yellow">Space-y</text>
+</svg>

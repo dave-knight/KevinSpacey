@@ -1,4 +1,11 @@
 {
+    "manifest_version": 3,
+    "name": "Kevin Space-y",
+    "version": "1.0",
+    "background": {
+      "service_worker": "service_worker.js"
+    },
+
     "name": "KevinSpace-y",
     "description": "Delete Pinned Tweets",
     "version": "1.0",

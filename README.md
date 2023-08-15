@@ -1,4 +1,4 @@
-# ![Logo](images/KevinSpacey.svg) Kevin Spacey
+# ![Logo](images/kspacey_logo.svg) Kevin Spacey
 ## Requirements
 Chromium based browser e.g. Chrome, Edge.
 ## Installation

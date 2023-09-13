@@ -33,7 +33,7 @@
           "https://*.twitter.com/*"
         ],
         "js": [
-          "contentScript.js"
+          "content.js"
         ]
       }
     ],
